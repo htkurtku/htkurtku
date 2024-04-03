@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @htkurtku
-- 👀 I’m interested in learning C++ and Python
-- 🌱 I’m currently learning C++
-- 📫 How to reach me u/htku#8181 on Discord
+making dumb stuff that probably sucks
 
 <!---
 htkurtku/htkurtku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
